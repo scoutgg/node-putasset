@@ -1,5 +1,5 @@
 {
-  "name": "putasset",
+  "name": "putasset-fork",
   "version": "5.0.0",
   "description": "upload asset to release on github",
   "main": "lib/putasset.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coderaiser/node-putasset.git"
+    "url": "https://github.com/scoutgg/node-putasset.git"
   },
   "keywords": [
     "github",
